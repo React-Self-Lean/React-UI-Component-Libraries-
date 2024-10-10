@@ -5,6 +5,9 @@
 - **GitHub Stars**: 37.3k+
 - **NPM Weekly Downloads**: 533k+
 
+![image](https://github.com/user-attachments/assets/59987378-2463-44a3-bae7-1a6b56a8fc7a)
+
+
 ## Key Features
 
 ### 1. **Style Props**
